@@ -1,0 +1,173 @@
+html {
+    font-family: 'Montserrat', san-serif;
+    background-color: #222;
+}
+
+p{
+    line-height: 1;
+}
+
+.resume-container {
+    width: 132.8125vh;
+    height: 171.875vh;
+    background-color: #fff;
+    margin: auto;
+}
+
+.resume-header {
+    height: 21.09%;
+    background-color: #201F33;
+}
+
+.bold-title {
+    font-weight: 700;
+    color: #fff;
+    padding-left: 7.8125vh;
+    padding-top: 7.8125vh;
+    font-size: 5.208333333333438vh;
+}
+
+.bold-subtitle {
+    font-weight: 400;
+    color: #D74761;
+    padding-left: 7.8125vh;
+    margin-top: -1%;
+    font-size: 3.038194444444531vh;
+}
+
+.bold-description {
+    font-weight: 400;
+    color: #fff;
+    padding-left: 7.8125vh;
+    font-size: 2.170138888888906vh;
+    margin-top: 3%;
+    margin-right: 7.8125vh;
+}
+
+.resume-contact {
+    height: 11%;
+    background-color: #383659;
+    padding-top: 0.25em;
+    padding-bottom: 1.25em;
+    color: #fff;
+    font-weight: 400;
+    font-size: 2.170138888888906vh;
+}
+
+.column-2-left {
+    width: calc(50% - 15.625vh);
+    float: left;
+    padding-left: 7.8125vh;
+}
+
+.column-2-right {
+    width: calc(50% - 15.625vh);
+    padding-right: 7.8125vh;
+    float: right;
+}
+
+.contact-content {
+    padding-bottom: .25em;
+    vertical-align: middle;
+}
+
+.txt-contact {
+    vertical-align: middle;
+}
+
+.icon {
+    min-width: 3.90625vh;
+    min-height: 3.90625vh;
+    background-color: #fff;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: .5em;
+}
+
+.resume-main {
+    padding-left: 7.8125vh;
+    margin-right: 7.8125vh;
+    padding-top: 0.5em;
+}
+.section-header {
+    color: #D74761;
+    text-decoration: underline;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 3.038194444444531vh;
+    margin-bottom: -0.5em;
+}
+
+.resume-section {
+    margin-bottom: 2em;
+}
+
+.skill-header {
+    color: #000;
+    font-weight: 700;
+    font-size: 2.604166666666719vh;
+    margin-bottom: -0.5em;
+}
+
+.skill-details {
+    color: #808080;
+    font-weight: 400;
+    font-size: 10pt;
+}
+
+.job-title {
+    font-weight: 700;
+    font-size: 2.604166666666719vh;
+    margin-top: 1.5em;
+    margin-bottom: -0.5em;
+}
+
+.job-location {
+    font-weight: 400;
+    font-size: 2.170138888888906vh;
+    margin-bottom: -0.5em;
+}
+
+.job-date {
+    font-weight: 400;
+    font-size: 2.170138888888906vh;
+    color: #D74761;
+    font-style: italic;
+    margin-bottom: -0.5em;
+}
+
+.sepd {
+    font-size: 2.604166666666719vh;
+    font-weight: 700;
+}
+
+.bullet {
+    font-weight: 700;
+    font-size: 3.038194444444531vh;
+    color: #D74761;
+}
+
+.job-desc {
+    font-size: 2.170138888888906vh;
+    font-weight: 400;
+}
+
+.education-subject {
+    font-weight: 700;
+    font-size: 2.604166666666719vh;
+    margin-bottom: -0.5em;
+}
+
+.education-location {
+    font-weight: 400;
+    font-size: 2.170138888888906vh;
+    margin-bottom: -0.5em;
+}
+
+.education-date {
+    font-weight: 400;
+    font-size: 2.170138888888906vh;
+    color: #D74761;
+    font-style: italic;
+    padding-bottom: 0.25em;
+}
