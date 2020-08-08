@@ -145,3 +145,10 @@ for (var i = 0; i < info.education.entries.length; i++){
     section_details += '\n';
 }
 document.getElementById("resume-section-education").innerHTML = header_html + section_details;
+
+var html_str = '<html lang="en">\n' + document.getElementsByTagName("html")[0].innerHTML
+html_str += "\n</html>"
+var html_blob = new Blob([html_blob], {type: 'text/html'});
+var blob_link = URL.createObjectURL(html_blob);
+
+document.getElementById("download_button").innerHTML = '<a href="' + blob_link + '" download="resume.pdf">Download</a>';
