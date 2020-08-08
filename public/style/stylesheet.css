@@ -78,7 +78,6 @@ p{
 .icon {
     min-width: 3.90625vh;
     min-height: 3.90625vh;
-    background-color: #fff;
     display: inline-block;
     vertical-align: middle;
     margin-right: .5em;
@@ -170,4 +169,34 @@ p{
     color: #D74761;
     font-style: italic;
     padding-bottom: 0.25em;
+}
+
+.ic-email {
+    background-image: url(/img/email.svg);
+    background-size: 100%;
+}
+
+.ic-web {
+    background-image: url(/img/web.svg);
+    background-size: 100%;
+}
+
+.ic-loc {
+    background-image: url(/img/location.svg);
+    background-size: 100%;
+}
+
+.ic-phone {
+    background-image: url(/img/phone.svg);
+    background-size: 100%;
+}
+
+.ic-linkedin {
+    background-image: url(/img/linkedin.svg);
+    background-size: 100%;
+}
+
+.ic-github {
+    background-image: url(/img/github.svg);
+    background-size: 100%;
 }

@@ -1,2 +1,1 @@
-# resume-generator
-Generate a resume based on template. Created with html, css, and js.
+# Resume Generator [![<2015nov7>](https://circleci.com/gh/2015nov7/resume-generator.svg?style=shield)](https://app.circleci.com/pipelines/github/2015nov7/resume-generator?branch=master)
