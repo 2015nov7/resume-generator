@@ -76,5 +76,6 @@ doc.writeText(info.details.description, x, y);
 doc.setFillColor("#383659");
 doc.setDrawColor("#383659");
 doc.rect(0, 2.3199, 8.5, 1.21, 'FD');
+var 
 
 doc.save("resume.pdf");
