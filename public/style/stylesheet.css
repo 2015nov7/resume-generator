@@ -200,3 +200,17 @@ p{
     background-image: url(/img/github.svg);
     background-size: 100%;
 }
+
+#download_button {
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+    background-color: #fff;
+    position: fixed;
+    bottom: 2.5vh;
+    right: 5vh;
+    background-image: url(/img/download.svg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
